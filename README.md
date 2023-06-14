@@ -4,4 +4,6 @@
 ![Bar graphs](images/pandasbar.png)
 
 
-![Bar graphs](images/pinkpltbar.png)
+![pie graphs](images/pandaspie.png)
+
+![regression graphs](images/regressionmouse.png)
