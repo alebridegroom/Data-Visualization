@@ -4,4 +4,4 @@
 ![Bar graphs](images/pandasbar.png)
 
 
-![matplot Bar graphs](images/pinkpltbar.png)
+![Bar graphs](images/pinkpltbar.png)
